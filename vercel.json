@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    {
+      "source": "/xxx",
+      "destination": "https://google.com"
+    }
+  ]
+}
